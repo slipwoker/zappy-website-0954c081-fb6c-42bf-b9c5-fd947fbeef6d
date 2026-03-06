@@ -1,0 +1,75 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### Home
+https://example.com
+Discover iconic retro running shoes and cutting-edge athletic footwear at Puma Performance &amp; Lifestyle. Shop limited editions, collaborations, and performance tech that moves you forward.
+
+### Technology
+https://example.com/technology
+Experience the innovation behind our footwear. From responsive cushioning to lightweight materials, discover how Puma technology maximizes your athletic potential.
+
+### Contact
+https://example.com/contact
+Questions about sizing, releases, or collaborations? Our team is ready to help you find the perfect pair. Reach out for personalized footwear recommendations today.
+
+### Products
+https://example.com/products
+Our Products - Puma Performance & Lifestyle Shoe Store
+
+### Cart
+https://example.com/cart
+Your Cart
+
+### Checkout
+https://example.com/checkout
+Checkout
+
+### Login
+https://example.com/login
+Customer Login
+
+### Account
+https://example.com/account
+My Account
+
+### Order Success
+https://example.com/order-success
+Thank you for your order
+
+### Product Detail
+https://example.com/product/:slug
+Product Details - Puma Performance & Lifestyle Shoe Store
+
+### Category
+https://example.com/category/:slug
+Products - Puma Performance & Lifestyle Shoe Store
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
